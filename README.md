@@ -2,7 +2,7 @@
 CMSC 124 Programming Exercises
 
 ## Authors and Acknowledgement
-Carlos Rey Rivas
-Zyan Mae Callao
+- Carlos Rey Rivas
+- Zyan Mae Callao
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
