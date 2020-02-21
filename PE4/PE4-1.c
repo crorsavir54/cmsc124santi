@@ -1,4 +1,4 @@
-/* Program to detect day of the week */
+/* Program to determine day of the week */
 
 #include <stdio.h>
 #include <stdbool.h>
