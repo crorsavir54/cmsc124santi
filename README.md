@@ -3,7 +3,7 @@ CMSC 124 Programming Exercises
 
 ## Authors and Acknowledgement
 - **Carlos Rey Rivas**
-- **Zyan Mae Callao**
+- **Zian Mae Callao**
 > **Note:** 
 
 
