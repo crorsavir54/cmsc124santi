@@ -1,5 +1,4 @@
-# CMSC 124
-CMSC 124 Programming Exercises
+
 
 ## Authors and Acknowledgement
 - **Carlos Rey Rivas**
